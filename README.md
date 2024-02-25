@@ -18,7 +18,9 @@ Neste repositorio se encontra os arquivos:
 2 --> Game.zip: conjunto de mods, incluindo o mod comentado acima, alem de mods de terceiros que são:
       --> I3: melhora o sistema de inventários
       --> Laptops: adiciona modelos de computadores
-      **COMO USAR?** --> extraia o arquivo e jogue-o na pasta "games" do seu minetest, para encontra-la você pode ir na aba sobre do menu do seu minetest e clicar em "Abrir diretório de dados do usuário" e procule-a entre os arquivos. Caso não houver crie-a.
+      
+  **COMO USAR?** --> extraia o arquivo e jogue-o na pasta "games" do seu minetest, para encontra-la você pode ir na aba sobre do menu do seu minetest e clicar em "Abrir diretório de dados do usuário" e procule-a entre os arquivos. Caso não houver crie-a.
 
 3 --> Mapa.zip: mapa criado usando o conjunto de mods acima e inclui uma construção inspirada no Centro Cultural do Bom Jardim
-       **COMO USAR?** --> extraia o arquivo e jogue-o na pasta "worlds" do seu minetest, para encontra-la você pode ir na aba sobre do menu do seu minetest e clicar em "Abrir diretório de dados do usuário" e procule-a entre os arquivos. Caso não houver crie-a.
+       
+  **COMO USAR?** --> extraia o arquivo e jogue-o na pasta "worlds" do seu minetest, para encontra-la você pode ir na aba sobre do menu do seu minetest e clicar em "Abrir diretório de dados do usuário" e procule-a entre os arquivos. Caso não houver crie-a.
