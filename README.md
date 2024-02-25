@@ -1,4 +1,5 @@
-# MinetestModDOC
+# MinetestModDOC 
+````
                                      __                                 
                                     /  |                                
   ______    ______    ______    ____$$ |         _____  ____    ______  
@@ -9,7 +10,7 @@ $$ |      $$$$$$$$/ /$$$$$$$ |$$ \__$$ |        $$ | $$ | $$ |$$$$$$$$/
 $$ |      $$       |$$    $$ |$$    $$ |        $$ | $$ | $$ |$$       |
 $$/        $$$$$$$/  $$$$$$$/  $$$$$$$/         $$/  $$/  $$/  $$$$$$$/ 
                                                                         
-
+````
 Neste repositorio se encontra os arquivos:
 
 1 --> mod_tutorial_exemplo: mod para exemplo de criação de mods, contendo uso comentado de diversas mecanicas, nesta primeira versão, mais focado a nodes suas variações e atributos. Explorado o uso de programas externos de modelagem 3d para criação de objetos e personagem 
